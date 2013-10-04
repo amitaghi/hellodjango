@@ -1,0 +1,8 @@
+venv
+*.pyc
+*.sublime*
+.idea/
+.DS_Store
+local-settings.py
+staticfiles
+*.bak
